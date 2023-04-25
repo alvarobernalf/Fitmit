@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706754435208",
+    "firebase_url": "https://fitmit-21d98-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fitmit-21d98",
+    "storage_bucket": "fitmit-21d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706754435208:android:ab3b0ae3f949708c22e73d",
+        "android_client_info": {
+          "package_name": "com.alvaro.fitmit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706754435208-m5u81lth7fomv0c91hqr0i0sv5pak2uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaY-hb4xNt00VOEDeoGbxQ8RjYGYpgXSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706754435208-m5u81lth7fomv0c91hqr0i0sv5pak2uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
