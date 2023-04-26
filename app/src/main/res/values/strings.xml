@@ -18,4 +18,5 @@
     <string name="checkBoxRegistroText">Acepto los </string>
     <string name="registroLabelButtonText">Registrarme</string>
     <string name="volverLoginButtonText">¿Ya tienes cuenta? Inicia sesión</string>
+
 </resources>
